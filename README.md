@@ -1,4 +1,4 @@
-# casbin-website-v3
+# casbin-website-v2
 
 This is a Next.js application generated with
 [Create Fumadocs](https://github.com/fuma-nama/fumadocs).
